@@ -7,6 +7,32 @@ Based on this, we conducted the analysis. We hope it will help homebuyers better
 ## Key Question
 ● What are the differences in housing prices across different zip code areas in King County?
 
-● What Zip codes have the lowest median list price but the highest return year over year?
+● What factors can influence housing prices?
 
-● What Zip codes have the lowest median list price but the highest return year over year?
+● How do these factors influence housing prices?
+
+## Tools
+The data was analyzed using Python and the following libraries:
+
+● Pandas: for data analysis
+
+● Numpy: for mathematical equations
+
+● Seaborn: for data visualizations
+
+● Matplotlib: for data visualizations
+
+● Matplotlib.pyplot: for data visualizations
+
+● Folium: for geospatial data visualization
+
+● json: for geospatial data visualization
+
+● geojson: for geospatial data visualization
+
+● sklearn: for machine learning and statistical modeling
+
+● pylab: for data visualizations
+
+## Tableau Story
+Tableau Story was created in Tableau Public and may be viewed in the attached.[Tableau Storyboard](https://public.tableau.com/app/profile/chenhao.ma/viz/KingcountyHousingPrice/KingCountyHousingPriceAnalysis?publish=yes)
