@@ -36,3 +36,10 @@ The data was analyzed using Python and the following libraries:
 
 ## Tableau Story
 Tableau Story was created in Tableau Public and may be viewed in the attached.[Tableau Storyboard](https://public.tableau.com/app/profile/chenhao.ma/viz/KingcountyHousingPrice/KingCountyHousingPriceAnalysis?publish=yes)
+
+## Folders
+The project files are divided between the following folders:
+
+● 01 Data: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively.
+
+● 02 Scripts: The Jupyter notebooks containing the coding for the analysis.
